@@ -1,7 +1,7 @@
 The project focuses on building a highly available, scalable, and secure infrastructure in the Azure cloud, using Terraform and various Azure services.
 
 # Overview
-This assignment demonstrates the use of Infrastructure as Code (IaC) principles to codify and provision resources in Azure. The infrastructure includes virtual networks, virtual machines (Linux and Windows), load balancers, and more, adhering to best practices for scalability, parameterization, and modular design.
+This project demonstrates the use of Infrastructure as Code (IaC) principles to codify and provision resources in Azure. The infrastructure includes virtual networks, virtual machines (Linux and Windows), load balancers, and more, adhering to best practices for scalability, parameterization, and modular design.
 
 Key objectives:
 
