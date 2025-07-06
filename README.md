@@ -28,7 +28,7 @@ Monitoring: Azure Monitor integration
 
 Clone this repository:
 git clone https://github.com/Hadeeq10/IaaC-using-Terraform.git
-cd Automation-Assignment/assingment1
+cd IaaC-using-Terraform/assingment1
 
 Initialize Terraform:
 terraform init
